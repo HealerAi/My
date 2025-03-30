@@ -39,8 +39,6 @@ DOMAIN,www.douyin.com
 # Kuwo
 DOMAIN,ip.i.kuwo.cn
 
-# Xiaohongshu
-DOMAIN,edith.xiaohongshu.com
 
 # Weibo
 DOMAIN,api.weibo.cn
@@ -52,7 +50,8 @@ DOMAIN,s.weibo.com
 DOMAIN,api.zhihu.com
 
 
-
+# Xiaohongshu
+DOMAIN,edith.xiaohongshu.com
 IP-CIDR,114.55.236.88/32
 IP-CIDR,47.97.64.97/32
 IP-CIDR,47.97.66.48/32
